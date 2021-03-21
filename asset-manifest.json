@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-mobX-ts-animated-paint/static/css/main.1bc6d8bd.chunk.css",
+    "main.js": "/react-mobX-ts-animated-paint/static/js/main.24003514.chunk.js",
+    "main.js.map": "/react-mobX-ts-animated-paint/static/js/main.24003514.chunk.js.map",
+    "runtime-main.js": "/react-mobX-ts-animated-paint/static/js/runtime-main.341ad4ca.js",
+    "runtime-main.js.map": "/react-mobX-ts-animated-paint/static/js/runtime-main.341ad4ca.js.map",
+    "static/js/2.927277a1.chunk.js": "/react-mobX-ts-animated-paint/static/js/2.927277a1.chunk.js",
+    "static/js/2.927277a1.chunk.js.map": "/react-mobX-ts-animated-paint/static/js/2.927277a1.chunk.js.map",
+    "index.html": "/react-mobX-ts-animated-paint/index.html",
+    "static/css/main.1bc6d8bd.chunk.css.map": "/react-mobX-ts-animated-paint/static/css/main.1bc6d8bd.chunk.css.map",
+    "static/js/2.927277a1.chunk.js.LICENSE.txt": "/react-mobX-ts-animated-paint/static/js/2.927277a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.341ad4ca.js",
+    "static/js/2.927277a1.chunk.js",
+    "static/css/main.1bc6d8bd.chunk.css",
+    "static/js/main.24003514.chunk.js"
+  ]
+}
