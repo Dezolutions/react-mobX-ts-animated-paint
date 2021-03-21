@@ -1,0 +1,65 @@
+button,
+input {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  margin: 10px;
+  padding: 5px;
+  transition: .3s ease;
+  font-size: 16px;
+  &:hover {
+    background-color: rgb(213, 250, 252);
+    
+    border-radius: 5px;
+  }
+}
+input[type="color"] {
+  appearance: none;
+  padding: 0;
+  width: 30px;
+  &::-webkit-color-swatch{
+    border: none;
+    border-radius: 5px;
+  }
+  &::-moz-focus-inner{
+    border: none;
+    border-radius: 5px;
+  }
+}
+
+
+.replay {
+  color: rgb(209, 0, 0);
+}
+.save {
+  color: rgb(98, 180, 98);
+}
+.brush {
+  color: rgb(139, 56, 7);
+}
+.eraser {
+  color: rgb(87, 173, 173);
+}
+.delete {
+  color: rgb(13, 35, 97);
+}
+.back,
+.forward{
+  color: rgb(122, 122, 122);
+}
+
+.button-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  
+}
+
+@media screen and(max-width: 450px){
+  button,
+  input{
+    font-size: 22px;
+  }
+}
